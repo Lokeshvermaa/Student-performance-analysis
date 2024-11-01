@@ -1,1 +1,1 @@
-# Student-performance-analysis
+This code analyzes students scores in various subjects by calculating their average scores and visualizing the results through bar graph.it helps individual performance and highlights strengths and weaknesses across subjects.
